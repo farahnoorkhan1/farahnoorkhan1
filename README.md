@@ -5,13 +5,18 @@
 
 - 📫 How to reach me **farahnoorkhan1@gmail.com**
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/farahnoorkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farahnoorkhan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/farahnoorkhan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="farahnoorkhan30" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_farahnoorkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_farahnoorkhan" height="30" width="40" /></a>
 </p>
-
 
 
 
