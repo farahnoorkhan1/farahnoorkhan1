@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farahnoorkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="farahnoorkhan1" /> </p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
+- 📫 How to reach me **farahnoorkhan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
