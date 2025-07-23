@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farah Noor Khan</h1>
 <h3 align="center">Passionate developer who loves building cool web apps, solving problems, and learning new tech.</h3>
 
-            Email Me 👉 ✉️ **farahnoorkhan1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farahnoorkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="farahnoorkhan1" /> </p>
 
 <div align="center">
